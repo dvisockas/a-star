@@ -1,1 +1,5 @@
-# a-star
+- Open `solve.py` and change the grid to anything with the rules:
+  - 0 - can walk there
+  - 1 - can't walk there
+  - 9 - goal
+- Run `$ python solve.py` and click 'Enter' key and walk through the path
